@@ -209,7 +209,7 @@ Yes. {% url "You can set this with `blacklistHosts` in `cypress.json`." configur
 
 Also, check out our {% url 'Google Analytics Recipe' recipes#Stubbing-Google-Analytics %}.
 
-## {% fa fa-angle-right %} How can I verify that calls to analytics like Google Analytics are being made correct?
+## {% fa fa-angle-right %} How can I verify that calls to analytics like Google Analytics are being made correctly?
 
 Easy - you stub their functions and then ensure they're being called.
 
