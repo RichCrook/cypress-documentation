@@ -21,7 +21,7 @@ This is especially useful when running in CI. Typically we see users using the d
 
 # Custom Reporters
 
-Cypress supports custom reporters, whether local to your project or installed through {% url "npm" https://www.npmjs.com/ %}.
+Cypress supports custom reporters, whether local to your project or installed through {% url "`npm`" https://www.npmjs.com/ %}.
 
 ## Local Reporters
 
